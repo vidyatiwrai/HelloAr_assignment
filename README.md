@@ -18,4 +18,4 @@ This project is a simple single-page application that mimics the basic functiona
 1. **Clone the repository:**
 
    ```bash
-   git clone  
+   git clone   https://github.com/vidyatiwrai/HelloAr_assignment
